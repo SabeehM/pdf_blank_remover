@@ -9,5 +9,5 @@
 	git clone https://github.com/SabeehM/pdf_blank_remover.git my_app
 
 # Start the Flask development web server
-pip install -r requirements.txt
-python main.py runserver
+	pip install -r requirements.txt
+	python main.py runserver
